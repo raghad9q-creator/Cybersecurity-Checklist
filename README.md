@@ -61,10 +61,10 @@ Make sure you have the following installed:
 ### Installation
 
 Clone the repository:
-```text
+
 ```bash
 git clone https://github.com/raghad9q-creator/Cybersecurity-Checklist.git
-
+```
 ## App Screenshots
 
 ### Screenshot 1
