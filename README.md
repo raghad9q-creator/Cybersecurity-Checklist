@@ -68,22 +68,22 @@ git clone https://github.com/raghad9q-creator/Cybersecurity-Checklist.git
 ## App Screenshots
 
 ### Screenshot 1
-![Screenshot 1](./040932%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 1](./screenshot1.png)
 
 ### Screenshot 2
-![Screenshot 2](./041010%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 2](./screenshot2.png)
 
 ### Screenshot 3
-![Screenshot 3](./041032%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 3](./screenshot3.png)
 
 ### Screenshot 4
-![Screenshot 4](./041050%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 4](./screenshot4.png)
 
 ### Screenshot 5
-![Screenshot 5](./041115%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 5](./screenshot5.png)
 
 ### Screenshot 6
-![Screenshot 6](./041133%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 6](./screenshot6.png)
 
 ### Screenshot 7
-![Screenshot 7](./041200%2022-08-2026%20لقطة%20شاشة.png)
+![Screenshot 7](./screenshot7.png)
